@@ -7,5 +7,5 @@ Simply download this repository as a zip, then import it through the `Mods` dial
 
 ## Contributing
 
-Vaox
+Vaox,
 Simon
