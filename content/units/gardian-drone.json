@@ -1,0 +1,22 @@
+{
+    "type": "Spirit",
+    "name": "Gardian Drone",
+    "description": "A drone that heals blocks.",
+    "flying": true,
+    "attackLength": 90,
+    "range": 100,
+    "health": 6000,
+    "hitSize": 20,
+    "weapon": {
+        "length": 0,
+        "width": 5,
+        "roundrobin": true,
+        "reload": 40,
+        "bullet": {
+            "type": "HealBulletType",       
+            "lifetime": 100,
+            "speed": 5,
+            "healPercent": 10
+        }
+    }
+}
